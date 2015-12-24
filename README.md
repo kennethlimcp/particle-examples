@@ -17,3 +17,7 @@ This is an attempt to consolidate working and regularly used examples can is per
 - [Allows the usage of SD card with any devices](sd-library)
 
 - [ADXL345 from Adafruit](Adafruit_ADXL345)
+
+- [BMP085 from Adafruit](Adafruit-BMP085)
+
+- [BMP085 modded for electron](Adafruit-BMP085-electron)

@@ -34,8 +34,6 @@
 
 #include "Adafruit_ADXL345_U.h"
 
-SYSTEM_MODE(MANUAL);
-
 /**************************************************************************/
 /*!
     @brief  Abstract away platform differences in Arduino wire library

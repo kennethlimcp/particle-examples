@@ -1,3 +1,4 @@
+SYSTEM_MODE(MANUAL);
 
 #if !defined(SPARK)
   #include <Wire.h>
