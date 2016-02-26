@@ -21,8 +21,8 @@ void loop(){
                 retry_count++;
 
             }
-            else if (!Spark.connected()){
-                Spark.connect();
+            else if (!Particle.connected()){
+                Particle.connect();
                 retry_count++;
             }
         }
