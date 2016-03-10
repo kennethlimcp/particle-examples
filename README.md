@@ -8,6 +8,7 @@ This is an attempt to consolidate working and regularly used examples can is per
 
 - [Vbat testing to show that RTC runs without main power supply](photon-vbat)
 
+- [Publish an event periodically from deep sleep](pub-and-sleep)
 
 ####Platform neutral
 
