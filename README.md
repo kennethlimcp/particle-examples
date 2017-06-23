@@ -14,7 +14,7 @@ This is an attempt to consolidate working and regularly used examples can is per
 
 - [Handles dropped wifi or lost connection so device will not hang in a weird state](wifi-auto-reconnect)
 
-- [Handles dropped wifi or lost connection so device will not hang in a weird state](wifi-auto-reconnect)
+- [Intercept OTA update message to perform clean up tasks first](ota-handler)
 
 #### Peripherals/Sensors
 
