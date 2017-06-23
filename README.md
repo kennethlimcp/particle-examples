@@ -1,20 +1,23 @@
-#Curated example for Particle devices
+# Curated example for Particle devices
 
 This is an attempt to consolidate working and regularly used examples can is personally written and tested to support people using devices from [Particle](https://particle.io)
 
-###Table of Contents
+### Table of Contents
 
-####Photon
+#### Photon
 
 - [Vbat testing to show that RTC runs without main power supply](photon-vbat)
 
 - [Publish an event periodically from deep sleep](pub-and-sleep)
 
-####Platform neutral
+#### Platform neutral
 
 - [Handles dropped wifi or lost connection so device will not hang in a weird state](wifi-auto-reconnect)
 
-**Peripherals/Sensors**
+- [Handles dropped wifi or lost connection so device will not hang in a weird state](wifi-auto-reconnect)
+
+#### Peripherals/Sensors
+
 - [Allows the usage of SD card with any devices](sd-library)
 
 - [ADXL345 from Adafruit](Adafruit_ADXL345)
